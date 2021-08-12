@@ -63,6 +63,16 @@
       "type": "component",
       "repeatable": false,
       "component": "page.section-faq"
+    },
+    "pricingBox": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.pricing-box"
+    },
+    "sectionReviews": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-reviews"
     }
   }
 }
